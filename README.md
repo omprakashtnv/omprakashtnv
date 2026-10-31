@@ -107,7 +107,6 @@ A remittance application supporting currency conversion, transaction management,
 - 💼 LinkedIn: https://www.linkedin.com/in/om-gupta-coding/
 - 📧 Email: omprakash1997242@gmail.com
 - 💻 GitHub: [@omprakashtnv](https://github.com/omprakashtnv)
-- 🌐 Portfolio: Add your portfolio URL
 
 ---
 
