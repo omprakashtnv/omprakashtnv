@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Backend Engineering | AI & SaaS
 
-I’m a Full Stack Developer with **3.5 years of professional experience** building scalable web applications, multi-tenant SaaS platforms, secure backend systems, and AI-powered solutions.
+I’m a Full Stack Developer with **3+ years of professional experience** building scalable web applications, multi-tenant SaaS platforms, secure backend systems, and AI-powered solutions.
 
 Currently working at **LEI International Pvt. Ltd. (TNV LEI)**, contributing to a global Legal Entity Identifier (LEI) management platform operating across **26+ countries**.
 
@@ -12,7 +12,7 @@ I enjoy designing scalable systems, solving complex engineering problems, buildi
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer specializing in React.js, Node.js, and TypeScript.
+- 💻 Full Stack Developer specializing in React.js, Node.js, TypeScript, PostgreSQL and MongoDB.
 - ☁️ Experienced in AWS cloud services and microservices architecture.
 - 🏗️ Building multi-tenant SaaS applications and event-driven systems.
 - 🤖 Exploring AI engineering, LangChain, OpenAI, Gemini, and RAG.
