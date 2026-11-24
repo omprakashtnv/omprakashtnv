@@ -84,7 +84,7 @@ Enterprise and client applications developed during my professional employment.
       </ul>
       <p>
         <strong>Tech Stack:</strong> React.js | TypeScript | Node.js |
-        Express.js | PostgreSQL | Prisma | Redis | AWS Lambda |
+        Express.js | PostgreSQL | Prisma | Redis | AWS |
         Microservices | LangChain | RAG
       </p>
     </td>
